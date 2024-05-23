@@ -1,0 +1,148 @@
+Primary vs Secondary Hypertension
+https://www.bethandhowardbravermd.com/blog/the-difference-between-primary-and-secondary-hypertension
+
+
+
+-----------------------------Drug/Disea Search KEGG-----------------------------------------------
+USE https://www.genome.jp/kegg/ and search through KEGG drug/disease.
+Disease: H01633 High Blood Pressure; Hypertension
+	H01619 Primary Hypertension
+	H01621 Pulmonary arterial hypertension
+
+CATEGORY    Cardiovascular disease
+BRITE       Human diseases in ICD-11 classification [BR:br08403]
+             11 Diseases of the circulatory system
+              Hypertensive diseases
+               BA04  Secondary hypertension
+
+DGROUP: Antihypertensive
+	DG03231
+D00235               Atenolol (JP18/USP/INN); Tenormin (TN) 
+D00386               Triamterene (JP18/USP/INN); Dyrenium (TN) 
+D00432               Nadolol (JP18/USP/INN); Corgard (TN) 
+D00513               Pindolol (JP18/USP/INN); Blocklin-L (TN); Carvisken (TN); Visken (TN) 
+D00515               Nitroglycerin (JP18/USP); Glyceryl trinitrate; Minitran (TN); Nitro-bid (TN); Nitro-dur (TN); Nitrom 
+D07569               Candesartan cilexetil and anmlodipine besylate (JP18); Unisia (TN) 
+D07895               Losartan potassium and hydrochlorothiazide (JP18); Hydrochlorothiazide and losartan potassium; Hyzaa 
+D09196               Candesartan cilexetil and hydrochlorothiazide (JP18); Ecard HD (TN); Ecard LD (TN) 
+D09197               Valsartan and hydrochlorothiazide (JP18); Co-dio (TN) 
+D09219               Telmisartan and hydrochlorothiazide (JP18); Micombi (TN); Micardis hct (TN) 
+D09594               Olmesartan medoxomil and azelnidipine; Rezaltas (TN) 
+D09743               Telmisartan and amlodipine besilate (JP18); Telmisartan and amlodipine besylate; Micamlo (TN); Twyns 
+D09745               Valsartan and amlodipine besilate; Exforge (TN) 
+D10226               Sacubitril valsartan sodium hydrate (JAN); Sacubitril mixture with valsartan; Entresto (TN) 
+D10243               Irbesartan and amlodipine besilate (JP18); Aimix (TN) 
+D10249               Irbesartan and hydrochlorothiazide; Avalide (TN); Ifirmacombi (TN) 
+D10268               Hydrochlorothiazide and lisinopril; Prinzide (TN); Zestoretic (TN) 
+D10276               Captopril and hydrochlorothiazide; Capozide (TN) 
+D10277               Enalapril maleate and hydrochlorothiazide; Vaseretic (TN) 
+D10278               Quinapril hydrochloride and hydrochlorothiazide; Accuretic (TN) 
+D10279               Benazepril hydrochloride and hydrochlorothiazide; Lotensin hct (TN) 
+D10280               Fosinopril and hydrochlorothiazide; Fosinopril sodium and hydrochlorothiazide (TN) 
+D10281               Moexipril hydrochloride and hydrochlorothiazide; Uniretic (TN) 
+D10282               Trandolapril and verapamil hydrochloride; Tarka (TN) 
+D10283               Eprosartan mesylate and hydrochlorothiazide; Teveten htc (TN) 
+D10284               Olmesartan medoxomil and hydrochlorothiazide; Benicar hct (TN) 
+D10285               Amlodipine besylate and olmesartan medoxomil; Azor (TN) 
+D10286               Amlodipine, valsartan and hydrochlorothiazide; Exforge hct (TN) 
+D10287               Aliskiren hemifumarate and valsartan; Valturna (TN) 
+D10288               Olmesartan medoxomil, amlodipine besylate and hydrochlorothiazide; Tribenzor (TN) 
+D10480               Irbesartan and trichlormethiazide; Irtra (TN) 
+D10524               Azilsartan and amlodipine besilate; Zacras (TN) 
+D10525               Valsartan and cilnidipine; Atedio (TN) 
+D10589               Azilsartan medoxomil and chlorthalidone; Edarbyclor (TN) 
+D10805               Telmisartan, amlodipine and hydrochlorothiazide; Micatrio (TN) 
+D11388               Nebivolol and valsartan; Byvalson (TN) 
+D11581               Perindopril and amlodipine; Prestalia (TN) 
+
+Secondary Hypertension
+DISEASE: Liddle syndrome H00242
+DISEASE: Hypertension exacerbated in pregnancy H00603
+
+------------------------------------------if via pathway KEGG search------------------------------------	
+pathway: hsa04960 Aldosterone-regulated sodium reabsorption  -  secondary hypertension
+
+pathway: hsa04614 Renin-angiotensin system
+D00150  	Angiotensin II (INN)
+D00251  	Captopril (JP18/USP/INN)
+D00357  	Losartan potassium (JP18/USP)
+D00362  	Lisinopril (USP)
+D00383  	Trandolapril (JAN/USP/INN)
+D00400  	Valsartan (JP18/USP/INN)
+D00421  	Ramipril (USP/INN)
+D00459  	Quinapril hydrochloride (JP18/USP)
+D00522  	Candesartan (USAN/INN)
+D00523  	Irbesartan (JP18/USP/INN)
+D00620  	Benazepril hydrochloride (JAN/USP)
+D00621  	Enalapril maleate (JP18/USP)
+D00622  	Fosinopril sodium (USP)
+D00623  	Moexipril hydrochloride (USP)
+D00624  	Perindopril erbumine (JAN/USP)
+D00626  	Candesartan cilexetil (JP18/USP)
+D00627  	Telmisartan (JP18/USP/INN)
+D01069  	Cilazapril (USAN)
+D01070  	Candoxatril (JAN/USAN/INN)
+D01119  	Temocapril hydrochloride (JP18/USAN)
+D01204  	Olmesartan medoxomil (JP18/USP)
+D01549  	Imidapril hydrochloride (JP18)
+D01667  	Delapril hydrochloride (JAN/USAN)
+D01900  	Alacepril (JP18/INN)
+D01922  	Pratosartan (JAN/INN)
+D01970  	Omapatrilat (JAN/USAN/INN)
+D02014  	Angiotensin II (USAN)
+D02082  	Eprosartan mesylate (USAN)
+D02939  	Angiotensin amide (USAN)
+D03077  	Benazeprilat (USAN/INN)
+D03208  	Aliskiren (USAN/INN)
+D03349  	Candoxatrilat (USAN/INN)
+D03440  	Ceronapril (USAN/INN)
+D03738  	Enalkiren (USAN/INN)
+D03741  	Ditekiren (USAN)
+D03743  	Terlakiren (USAN/INN)
+D03745  	Zankiren hydrochloride (USAN)
+D03752  	Quinapril (INN)
+D03753  	Perindopril (USAN/INN)
+D03756  	Indolapril hydrochloride (USAN)
+D03758  	Libenzapril (USAN/INN)
+D03763  	Pivopril (USAN/INN)
+D03765  	Spirapril hydrochloride (USAN)
+D03767  	Zofenopril calcium (USAN)
+D03769  	Enalaprilat (USP)
+D03772  	Fosinoprilat (USAN/INN)
+D03773  	Quinaprilat (USAN/INN)
+D03775  	Spiraprilat (USAN/INN)
+D03776  	Zofenoprilat arginine (USAN)
+D03929  	Ecadotril (USAN/INN)
+D04040  	Eprosartan (USAN/INN)
+D04126  	Saralasin acetate (USAN)
+D04243  	Forasartan (USAN/INN)
+D04312  	Gemopatrilat (USAN/INN)
+D05246  	Olmesartan (USAN/INN)
+D05801  	Saprisartan potassium (USAN)
+D06010  	Tasosartan (USAN/INN)
+D06076  	Teprotide (USAN/INN)
+D06412  	Aliskiren fumarate (JAN/USAN)
+D07499  	Benazepril (INN)
+D07699  	Cilazapril (INN)
+D07781  	Delapril (INN)
+D07892  	Enalapril (INN)
+D07992  	Fosinopril (INN)
+D08067  	Azilsartan medoxomil (USAN)
+D08068  	Imidapril (INN)
+D08131  	Lisinopril (INN)
+D08146  	Losartan (INN)
+D08225  	Moexipril (INN)
+D08529  	Spirapril (INN)
+D08566  	Temocapril (INN)
+D08688  	Zofenopril (INN)
+D08864  	Azilsartan (JAN/USAN/INN)
+D08865  	Azilsartan kamedoxomil (USAN)
+D09038  	Remikiren (INN)
+D10225  	Sacubitril (JAN/USAN/INN)
+D10556  	Fimasartan (INN)
+D11142  	Angiotensin II acetate (USAN)
+D11580  	Perindopril arginine
+
+
+
+-----------------------------------------------------------------------------------------

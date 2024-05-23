@@ -1,0 +1,147 @@
+﻿Entry,Name,Name(TN),Disease
+D00074,Nitric oxide (JAN/USAN),INOmax (TN),Pulmonary hypertension [DS:H01619 H01621]
+D00106,Epoprostenol (USAN/INN),Epoprostenol (TN),Pulmonary arterial hypertension [DS:H01621]
+,Prostaglandin I2,,
+,Prostacyclin,,
+D00235,Atenolol (JP18/USP/INN),Tenormin (TN),Hypertension [DS:H01633]
+,,,Angina pectoris due to coronary atherosclerosis [DS:H01632]
+,,,Acute Myocardial Infarction [DS:H01730]
+D00251,Captopril (JP18/USP/INN),Apopril (TN),Hypertension [DS:H01633]
+,,Capoten (TN),Diabetic Nephropathy [DS:H01456]
+D00255,Carvedilol (JP18/USP/INN),Artist (TN),Hypertension [DS:H01633]
+,,Coreg (TN),
+D00272,Chlorthalidone (USP),Hygroton (TN),Hypertension [DS:H01633]
+,Chlortalidone (JAN/INN),Thalitone (TN),Nephrotic syndrome [DS:H01657]
+D00319,Felodipine (JP18/USP/INN),Plendil (TN),Hypertension [DS:H01633]
+D00331,Furosemide (JP18/USP/INN),Lasix (TN),Hypertension [DS:H01633]
+,Frusemide,,
+D00340,Hydrochlorothiazide (JP18/USP/INN),Esidrix (TN),Hypertension [DS:H01633]
+,,Microzide (TN),
+D00345,Indapamide (JP18/USP),Lozol (TN),Hypertension [DS:H01633]
+,,Natrix (TN),
+D00349,Isradipine (USP/INN),Dynacirc (TN),Hypertension [DS:H01633]
+D00357,Losartan potassium (JP18/USP),Cozaar (TN),Hypertension [DS:H01633]
+,,,Nephropathy in type 2 diabetic [DS:H01456]
+D00362,Lisinopril (USP),Prinivil (TN),Hypertension [DS:H01633]
+,Lisinopril hydrate (JP18),Zestril (TN),
+,Lisinopril dihydrate,,
+D00382,Torsemide (USP),Demadex (TN),Hypertension [DS:H01633]
+,Torasemide (JAN/INN),Luprac (TN),
+D00383,Trandolapril (JAN/USP/INN),Mavik (TN),Hypertension [DS:H01633]
+D00400,Valsartan (JP18/USP/INN),Diovan (TN),Hypertension [DS:H01633]
+D00405,Methyldopa (USP),Aldomet (TN),Hypertension [DS:H01633]
+,Methyldopa hydrate (JP18),,
+D00418,Minoxidil (JAN/USP/INN),Loniten (TN),Hypertension [DS:H01633]
+,,Riup (TN),
+,,Rogaine (TN),
+D00421,Ramipril (USP/INN),Altace (TN),Hypertension [DS:H01633]
+D00432,Nadolol (JP18/USP/INN),Corgard (TN),Angina Pectoris [DS:H01632]
+,,,Hypertension [DS:H01633]
+D00437,Nifedipine (JP18/USP/INN),Adalat (TN),Hypertension [DS:H01633]
+,,Afeditab CR (TN),Vasospastic angina [DS:H01632]
+D00618,Nisoldipine (JAN/USAN/INN),Sular (TN),Hypertension [DS:H01633]
+D00619,Verapamil hydrochloride (JP18/USP),Calan (TN),Hypertension [DS:H01633]
+,,Covera-hs (TN),Angina [DS:H01632]
+,,Vasolan (TN),Atrial flutter [DS:H00731]
+,,Verelan (TN),
+D00620,Benazepril hydrochloride (JAN/USP),Lotensin (TN),Hypertension [DS:H01633]
+D00621,Enalapril maleate (JP18/USP),Renivace (TN),Hypertension [DS:H01633]
+,,Vasotec (TN),
+D00622,Fosinopril sodium (USP),Monopril (TN),Hypertension [DS:H01633]
+D00623,Moexipril hydrochloride (USP),Univasc (TN),Hypertension [DS:H01633]
+D00624,Perindopril erbumine (JAN/USP),Aceon (TN),Hypertension [DS:H01633]
+,,,Coronary artery disease [DS:H01742]
+D00626,Candesartan cilexetil (JP18/USP),Atacand (TN),Hypertension [DS:H01633]
+D00627,Telmisartan (JP18/USP/INN),Micardis (TN),Hypertension [DS:H01633]
+D00634,Bisoprolol fumarate (JP18/USP),Zebeta (TN),Hypertension [DS:H01633]
+D00635,Metoprolol succinate (USP),Toprol XL (TN),Hypertension [DS:H01633]
+,,,Angina pectoris [DS:H06132]
+D00644,Esmolol hydrochloride (JAN/USP),Brevibloc (TN),Hypertension [DS:H01633]
+D00656,Methyclothiazide (JAN/USP/INN),Enduron (TN),Hypertension [DS:H01633]
+D01115,Eplerenone (JP18/USAN/INN),Inspra (TN),Hypertension [DS:H01633]
+D01204,Olmesartan medoxomil (JP18/USP),Benicar (TN),Hypertension [DS:H01633]
+,,Olmetec (TN),
+D01227,Bosentan (USAN),Tracleer (TN),Pulmonary arterial hypertension [DS:H01621]
+,Bosentan hydrate (JAN),,
+D01302,Hydralazine hydrochloride (JP18/USP),Apresoline (TN),Essential hypertension [DS:H01633]
+D01337,Epoprostenol sodium (JAN/USAN),Flolan (TN),Pulmonary arterial hypertension [DS:H01621]
+,,Veletri (TN),
+D02008,Tadalafil (JAN/USP/INN),Adcirca (TN),Pulmonary arterial hypertension [DS:H01621]
+,,Cialis (TN),
+,,Zalutia (TN),
+D02082,Eprosartan mesylate (USAN),Teveten (TN),Hypertension [DS:H01633]
+D02229,Sildenafil citrate (JAN/USP),Revatio (TN),Pulmonary arterial hypertension [DS:H01621]
+,,Viagra (TN),
+D02721,Iloprost (USAN/INN),Ventavis (TN),Pulmonary arterial hypertension [DS:H01621]
+D03415,Carvedilol phosphate (USAN),Coreg CR (TN),Hypertension [DS:H01633]
+,Carvedilol phosphate hydrate (JAN),,
+D03769,Enalaprilat (USP),Vasotec (TN),Hypertension [DS:H01633]
+D04997,Methyldopate hydrochloride (USP),Aldomet (TN),Hypertension [DS:H01633]
+D06213,Treprostinil (JAN/USAN/INN),Remodulin (TN),Pulmonary arterial hypertension [DS:H01621]
+D06412,Aliskiren fumarate (JAN/USAN),Tekturna (TN),Hypertension [DS:H01633]
+,Aliskiren hemifumarate,,
+D06622,Nebivolol hydrochloride (USAN),Bystolic (TN),Hypertension [DS:H01633]
+D07077,Ambrisentan (JAN/INN),Letairis (TN),Pulmonary arterial hypertension [DS:H01621]
+,,Volibris (TN),
+D07895,Losartan potassium and hydrochlorothiazide (JP18),Hyzaar (TN),Hypertension [DS:H01633]
+,Hydrochlorothiazide and losartan potassium,Losarhyd (TN),
+D08067,Azilsartan medoxomil (USAN),,Hypertension [DS:H01633]
+D08488,Amlodipine besilate and atorvastatin calcium,Caduet (TN),Hypertension [DS:H01633]
+,,,Coronary artery disease [DS:H01742]
+,,,Chronic stable angina [DS:H01632]
+,,,Hyperlipidemia [DS:H01635]
+D08514,Sildenafil (INN),Aphrodil (TN),Pulmonary arterial hypertension [DS:H01621]
+D08865,Azilsartan kamedoxomil (USAN),Edarbi (TN),Hypertension [DS:H01633]
+D09196,Candesartan cilexetil and hydrochlorothiazide (JP18),Ecard HD (TN),Hypertension [DS:H01633]
+,,Ecard LD (TN),
+D09197,Valsartan and hydrochlorothiazide (JP18),Co-dio (TN),Hypertension [DS:H01633]
+D09219,Telmisartan and hydrochlorothiazide (JP18),Micombi (TN),Hypertension [DS:H01633]
+,,Micardis hct (TN),
+D09572,Riociguat (JAN/USAN/INN),Adempas (TN),Chronic-thromboembolic pulmonary hypertension [DS:H01622]
+,,,Pulmonary arterial hypertension [DS:H01621]
+D09743,Telmisartan and amlodipine besilate (JP18),Micamlo (TN),Hypertension [DS:H01633]
+,Telmisartan and amlodipine besylate,Twynsta (TN),
+D09745,Valsartan and amlodipine besilate,Exforge (TN),Hypertension [DS:H01633]
+D09994,Selexipag (JAN/USAN/INN),Uptravi (TN),Pulmonary arterial hypertension [DS:H01621]
+D10135,Macitentan (JAN/USAN),Opsumit (TN),Pulmonary arterial hypertension [DS:H01621]
+D10249,Irbesartan and hydrochlorothiazide,Avalide (TN),Hypertension [DS:H01633]
+,,Ifirmacombi (TN),
+D10267,Methyldopa and hydrochlorothiazide,Methyldopa and hydrochlorothiazide (TN),Hypertension [DS:H01633]
+D10268,Hydrochlorothiazide and lisinopril,Prinzide (TN),Hypertension [DS:H01633]
+,,Zestoretic (TN),
+D10269,Hydrochlorothiazide and triamterene,Dyazide (TN),Hypertension [DS:H01633]
+D10270,Spironolactone and hydrochlorothiazide,Aldactazide (TN),Nephrotic syndrome [DS:H01657]
+,,,Essential hypertension [DS:H01633]
+D10271,Amiloride hydrochloride and hydrochlorothiazide,Amiloride hydrochloride and hydrochlorothiazide (TN),Hypertension [DS:H01633]
+D10272,Nadolol and bendroflumethiazide,Corzide (TN),Hypertension [DS:H01633]
+D10273,Metoprolol and hydrochlorothiazide,Dutoprol (TN),Hypertension [DS:H01633]
+,,Lopressor hct (TN),
+D10274,Propranolol hydrochloride and hydrochlorothiazide,Inderide (TN),Hypertension [DS:H01633]
+,,Propranolol hydrochloride and hydrochlorothiazide (TN),
+D10275,Bisoprolol fumarate and hydrochlorothiazide,Ziac (TN),Hypertension [DS:H01633]
+D10276,Captopril and hydrochlorothiazide,Capozide (TN),Hypertension [DS:H01633]
+D10277,Enalapril maleate and hydrochlorothiazide,Vaseretic (TN),Hypertension [DS:H01633]
+D10278,Quinapril hydrochloride and hydrochlorothiazide,Accuretic (TN),Hypertension [DS:H01633]
+D10279,Benazepril hydrochloride and hydrochlorothiazide,Lotensin hct (TN),Hypertension [DS:H01633]
+D10280,Fosinopril and hydrochlorothiazide,Fosinopril sodium and hydrochlorothiazide (TN),Hypertension [DS:H01633]
+D10281,Moexipril hydrochloride and hydrochlorothiazide,Uniretic (TN),Hypertension [DS:H01633]
+D10282,Trandolapril and verapamil hydrochloride,Tarka (TN),Hypertension [DS:H01633]
+D10283,Eprosartan mesylate and hydrochlorothiazide,Teveten htc (TN),Hypertension [DS:H01633]
+D10284,Olmesartan medoxomil and hydrochlorothiazide,Benicar hct (TN),Hypertension [DS:H01633]
+D10285,Amlodipine besylate and olmesartan medoxomil,Azor (TN),Hypertension [DS:H01633]
+D10286,"Amlodipine, valsartan and hydrochlorothiazide",Exforge hct (TN),Hypertension [DS:H01633]
+D10288,"Olmesartan medoxomil, amlodipine besylate and hydrochlorothiazide",Tribenzor (TN),Hypertension [DS:H01633]
+D10289,Aliskiren hemifumarate and hydrochlorothiazide,Tekturna hct (TN),Hypertension [DS:H01633]
+D10430,Treprostinil diolamine (USAN),Orenitram (TN),Pulmonary arterial hypertension [DS:H01621]
+D10589,Azilsartan medoxomil and chlorthalidone,Edarbyclor (TN),Hypertension [DS:H01633]
+D10591,Clonidine and chlorthalidone,Clorpres (TN),Hypertension [DS:H01633]
+D10592,Atenolol and chlorthalidone,Tenoretic (TN),Hypertension [DS:H01633]
+D11069,Amlodipine and benazepril,Amlobenz (TN),Hypertension [DS:H01633]
+,,Lotrel (TN),
+D11388,Nebivolol and valsartan,Byvalson (TN),Hypertension [DS:H01633]
+D11581,Perindopril and amlodipine,Prestalia (TN),Hypertension [DS:H01633]
+D11585,Terazosin hydrochloride anhydrous,,Hypertension [DS:H01633]
+D11705,Amlodipine and celecoxib,Consensi (TN),Hypertension [DS:H01633]
+D11723,Levamlodipine maleate (USAN),Conjupri (TN),Hypertension [DS:H01633]
+D11881,Amlodipine benzoate,Katerzia (TN),Hypertension [DS:H01633]
+,,,Coronary artery disease [DS:H01742]
